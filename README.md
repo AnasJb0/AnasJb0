@@ -11,7 +11,7 @@
 
 - ⚡ Fun fact **I love playing video games 🎮**
 
-<h3 align="left">Connect with me:</h3>
+<center><h3 align="left">Connect with me:</h3><center>
 <p align="left">
 <a href="https://instagram.com/anas____jb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anas____jb" height="30" width="40" /></a>
 </p>
