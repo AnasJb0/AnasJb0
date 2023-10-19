@@ -1,7 +1,5 @@
-<Font face="Comic Sans MS">
 <h1 align="center">Hi 👋, I'm Anas</h1>
 <h3 align="center">A Trainee developer from Morocco</h3>
-</Font>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anas&label=Profile%20views&color=0e75b6&style=flat" alt="anas" /> </p>
 
